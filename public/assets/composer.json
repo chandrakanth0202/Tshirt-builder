@@ -1,0 +1,14 @@
+{
+    "name": "yourname/ci-tshirt-builder",
+    "description": "Simple T-shirt builder in CodeIgniter 4",
+    "type": "project",
+    "require": {
+        "codeigniter4/framework": "^4.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "minimum-stability": "stable"
+}
